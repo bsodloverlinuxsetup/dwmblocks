@@ -7,8 +7,8 @@ static const Block blocks[] = {
 	/* {"",	"price lbc \"LBRY Token\" 📚",			0,	22}, */
 		/* {"",	"moonphase",	18000,	17}, */
 	/* {"",	"nettraf",	1,	16}, */
-	{"",	"disk",	10,	1},
 	{"",	"memory",	10,	14},
+	{"",	"disk",	10,	1},
 	{"",	"cpu",		10,	18},
 	{"",	"torrent",	20,	7},
 	{"",	"music",	0,	11},
@@ -19,7 +19,6 @@ static const Block blocks[] = {
 	{"",	"volume",	0,	10},
 	{"",	"battery",	5,	3},
 	{"",	"clock",	10,	1},
-	{"",	"disk",	10,	1},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
